@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to NGINX server</title>
+</head>
+<body>
+    <h1>Welcome to DevOps Containerization tool</h1>
+    <p>Monitoring real time traffic</p>  
+    <p>Managing incients</p>
+    <p>Datadog and splunk will play major role.</p>
+   </body>
+</html>
